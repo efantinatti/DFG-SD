@@ -6,3 +6,4 @@
 - Ernani Fantinatti
 - Broinson Jeyarajah
 - Youstina Botros
+- Nguyen Anh Khoa Tran

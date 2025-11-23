@@ -28,7 +28,8 @@ Using global educational and economic data, we aim to quantify the relationship 
 
 
 ## Website
-![Sheridan Sigma Squad](https://sd.fantinatti.net)
+
+[Sheridan Sigma Squad](https://sd.fantinatti.net)
 
 ---
 

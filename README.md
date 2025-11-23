@@ -4,6 +4,8 @@
 
 ### Sheridan Datathon 2025 Team Project
 
+![SSS Logo](Logo/SSS_Logo.png)
+
 ## Overview
 
 This repository contains the work of our team for the **Sheridan Datathon 2025**. Our project focuses on **United Nations Sustainable Development Goal (SDG) \#4: Quality Education**.

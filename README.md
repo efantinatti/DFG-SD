@@ -3,10 +3,12 @@
 ![Sheridan Sigma Squad](Logo/SSS_Logo.png)
 
 # Team members
+
 - Ernani Fantinatti
 - Broinson Jeyarajah
 - Youstina Botros
 - Nguyen Anh Khoa Tran
+- Christian George-Igbinidu
 
 # Education as an Engine for Growth: Analyzing SDG #4
 
@@ -24,52 +26,52 @@ Using global educational and economic data, we aim to quantify the relationship 
 
 ## The Team
 
-| Name | Role | GitHub Profile |
-|------|------|----------------|
-| [Member 1 Name] | [e.g., Data Engineer/Lead] | [@username](https://github.com/username) |
-| [Member 2 Name] | [e.g., ML Engineer/Analyst] | [@username](https://github.com/username) |
+| Name            | Role                             | GitHub Profile                           |
+| --------------- | -------------------------------- | ---------------------------------------- |
+| [Member 1 Name] | [e.g., Data Engineer/Lead]       | [@username](https://github.com/username) |
+| [Member 2 Name] | [e.g., ML Engineer/Analyst]      | [@username](https://github.com/username) |
 | [Member 3 Name] | [e.g., Visualization Specialist] | [@username](https://github.com/username) |
-| [Member 4 Name] | [e.g., Project Manager/Analyst] | [@username](https://github.com/username) |
+| [Member 4 Name] | [e.g., Project Manager/Analyst]  | [@username](https://github.com/username) |
 
------
+---
 
 ## Business Case & Objective
 
 **The Problem:**
-While it is widely accepted that education is good for society, policymakers and NGOs (Non-Governmental Organizations) often struggle to determine *which specific* educational investments yield the highest economic returns. Without clear data, funding may be misallocated.
+While it is widely accepted that education is good for society, policymakers and NGOs (Non-Governmental Organizations) often struggle to determine _which specific_ educational investments yield the highest economic returns. Without clear data, funding may be misallocated.
 
 **Our Objective:**
 To analyze historical data to determine how specific "Quality Education" metrics (such as tertiary enrollment rates and literacy) correlate with and predict a nation's Economic Growth.
 
 **Guiding Questions:**
 
-  * **Audience:** Government Education Ministries, The World Bank, and Global NGOs.
-  * **Key Question:** *To what extent does investment in quality education predict a nation's GDP growth over time?*
-  * **Business Value:** Providing data-driven insights to help stakeholders prioritize educational funding for maximum economic impact.
+- **Audience:** Government Education Ministries, The World Bank, and Global NGOs.
+- **Key Question:** _To what extent does investment in quality education predict a nation's GDP growth over time?_
+- **Business Value:** Providing data-driven insights to help stakeholders prioritize educational funding for maximum economic impact.
 
------
+---
 
 ## The Dataset
 
 We are utilizing the **"How Education Drives Economic Growth"** dataset sourced from Kaggle.
 
-  * **Source:** [Kaggle Link](https://www.kaggle.com/datasets/omarmohammed70/how-education-drives-economic-growth)
-  * **Description:** The dataset includes key indicators for various countries over a time series.
-  * **Key Features:**
-      * `GDP`: Gross Domestic Product.
-      * `Literacy Rate`: Percentage of the population that can read/write.
-      * `School Enrollment`: Enrollment figures for primary, secondary, and tertiary levels.
-      * `Government Expenditure`: Spending on education as a % of GDP.
+- **Source:** [Kaggle Link](https://www.kaggle.com/datasets/omarmohammed70/how-education-drives-economic-growth)
+- **Description:** The dataset includes key indicators for various countries over a time series.
+- **Key Features:**
+  - `GDP`: Gross Domestic Product.
+  - `Literacy Rate`: Percentage of the population that can read/write.
+  - `School Enrollment`: Enrollment figures for primary, secondary, and tertiary levels.
+  - `Government Expenditure`: Spending on education as a % of GDP.
 
-> *Note: See the `data/raw` folder for the original dataset and `data/processed` for the cleaned version used for modeling.*
+> _Note: See the `data/raw` folder for the original dataset and `data/processed` for the cleaned version used for modeling._
 
------
+---
 
 ## Repository Structure
 
 We have organized our repository to ensure reproducibility and clean workflow management:
 
-```text
+````text
 ├── data
 │   ├── processed      # Cleaned data used for analysis
 │   ├── raw            # Original immutable data dump
@@ -173,3 +175,4 @@ For questions regarding this analysis, please reach out to the team via our GitH
 -----
 
 *For the Sheridan Datathon 2025.*
+````

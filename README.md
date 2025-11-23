@@ -66,7 +66,7 @@ We are utilizing the **"How Education Drives Economic Growth"** dataset sourced 
 ---
 
 ## Repository Structure
-
+```
 We have organized our repository to ensure reproducibility and clean workflow management:
 
 ├── data
@@ -83,7 +83,7 @@ We have organized our repository to ensure reproducibility and clean workflow ma
 │   └── modeling.py
 ├── .gitignore         # Files to exclude (e.g., large data)
 └── README.md          # Project documentation
-
+```
 -----
 
 ## Methodology

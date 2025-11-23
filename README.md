@@ -156,7 +156,7 @@ To reproduce our findings, follow these steps:
 
       * To clean data: `python src/data_cleaning.py`
       * To generate plots: `python src/visualization.py`
-      * To run models: `python src/model.py`
+      * To run models: `python src/modeling.py`
 
 -----
 

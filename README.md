@@ -22,9 +22,13 @@ Using global educational and economic data, we aim to quantify the relationship 
 | ------------------------- | ------------------------------------ | ---------------------------------------------------- |
 | Ernani Fantinatti         | AI / ML / Data Engineer / Team Lead  | [@efantinatti](https://github.com/efantinatti)       |
 | Broinson Jeyarajah        | Frontend / Backend                   | [@broin806](https://github.com/broin806)             |
-| Youstina Botros           | [e.g., Visualization Specialist].    | [@Youstina1811](https://github.com/Youstina1811)     |
-| Nguyen Anh Khoa Tran      | Data Analyst.                        | [@David277353](https://github.com/David277353)       |
+| Youstina Botros           | Data Analyst / Python.               | [@Youstina1811](https://github.com/Youstina1811)     |
+| Nguyen Anh Khoa Tran      | Data Analyst                         | [@David277353](https://github.com/David277353)       |
 | Christian George-Igbinidu | UX / Frontend                        | [@Christiangbhub](https://github.com/Christiangbhub) |
+
+
+## Website
+![Sheridan Sigma Squad](https://sd.fantinatti.net)
 
 ---
 

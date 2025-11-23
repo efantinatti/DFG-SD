@@ -2,14 +2,6 @@
 
 ![Sheridan Sigma Squad](Logo/SSS_Logo.png)
 
-# Team members
-
-- Ernani Fantinatti
-- Broinson Jeyarajah
-- Youstina Botros
-- Nguyen Anh Khoa Tran
-- Christian George-Igbinidu
-
 # Education as an Engine for Growth: Analyzing SDG #4
 
 ### Sheridan Datathon 2025 Team Project
@@ -26,12 +18,18 @@ Using global educational and economic data, we aim to quantify the relationship 
 
 ## The Team
 
-| Name            | Role                             | GitHub Profile                           |
-| --------------- | -------------------------------- | ---------------------------------------- |
-| [Member 1 Name] | [e.g., Data Engineer/Lead]       | [@username](https://github.com/username) |
-| [Member 2 Name] | [e.g., ML Engineer/Analyst]      | [@username](https://github.com/username) |
-| [Member 3 Name] | [e.g., Visualization Specialist] | [@username](https://github.com/username) |
-| [Member 4 Name] | [e.g., Project Manager/Analyst]  | [@username](https://github.com/username) |
+| Name                      | Role                                 | GitHub Profile                                       |
+| ------------------------- | ------------------------------------ | ---------------------------------------------------- |
+| Ernani Fantinatti         | AI / ML / Data Engineer / Team Lead  | [@efantinatti](https://github.com/efantinatti)       |
+| Broinson Jeyarajah        | Frontend / Backend                   | [@broin806](https://github.com/broin806)             |
+| Youstina Botros           | Data Analyst / Python.               | [@Youstina1811](https://github.com/Youstina1811)     |
+| Nguyen Anh Khoa Tran      | Data Analyst                         | [@David277353](https://github.com/David277353)       |
+| Christian George-Igbinidu | UX / Frontend                        | [@Christiangbhub](https://github.com/Christiangbhub) |
+
+
+## Website
+
+[Sheridan Sigma Squad](https://sd.fantinatti.net)
 
 ---
 
@@ -71,7 +69,6 @@ We are utilizing the **"How Education Drives Economic Growth"** dataset sourced 
 
 We have organized our repository to ensure reproducibility and clean workflow management:
 
-````text
 ├── data
 │   ├── processed      # Cleaned data used for analysis
 │   ├── raw            # Original immutable data dump
@@ -175,4 +172,3 @@ For questions regarding this analysis, please reach out to the team via our GitH
 -----
 
 *For the Sheridan Datathon 2025.*
-````

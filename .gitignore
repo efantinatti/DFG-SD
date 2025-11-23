@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+.DS_Store
+=======
 # macOS
 .DS_Store
 .AppleDouble
@@ -94,3 +97,4 @@ __pycache__/
 *.pfx
 *.cer
 *.der
+>>>>>>> 96ad71e00e0744a75cec5752a8ab76b11c507a2e

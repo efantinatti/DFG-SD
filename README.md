@@ -71,7 +71,6 @@ We are utilizing the **"How Education Drives Economic Growth"** dataset sourced 
 
 We have organized our repository to ensure reproducibility and clean workflow management:
 
-````text
 ├── data
 │   ├── processed      # Cleaned data used for analysis
 │   ├── raw            # Original immutable data dump
@@ -175,4 +174,3 @@ For questions regarding this analysis, please reach out to the team via our GitH
 -----
 
 *For the Sheridan Datathon 2025.*
-````

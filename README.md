@@ -5,3 +5,4 @@
 ## Team members
 - Ernani Fantinatti
 - Broinson Jeyarajah
+- Nguyen Anh Khoa Tran
